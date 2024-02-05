@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+table,tr,td{
+	border:1px solid black;
+	border-collapse: collapse;
+	 Spacing: 1px; 
+	 Padding: 1px;
+}
+#table-1{
+width:100%;
+}
+.center{
+   text-align:center;
+}
+.right{
+  text-align:right;
+}
+#table-2{
+    width:100%;
+	margin-top:20px;
+}
+
+#table-3{
+    width:100%;
+	margin-top:20px;
+}
+#green{
+	background-color:green;
+}
+#blue{
+	background-color:blue;
+}
+img{
+	align-items:center;
+}
